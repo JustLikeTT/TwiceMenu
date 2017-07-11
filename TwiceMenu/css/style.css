@@ -5,10 +5,22 @@
 	text-align:center;
 }
 .member_picture
-{
+{	
 	text-align:center;
+	margin:10px;
 }
-#Nayeon
+.menucountent
+{
+	width:1503px;
+	height:536px;
+	padding:10px;
+}
+.unit
 {
 	float:right;
+}
+
+#Nayeon
+{
+	
 }
